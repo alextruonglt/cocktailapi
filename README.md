@@ -1,15 +1,6 @@
-#### React Router Fix
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+This was made from React and the cocktail api. This uses React Router 6.
 
-#### CRA Fix
+Please see the live version. 
 
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+https://app.netlify.com/sites/cocktaildb-alextruong/overview

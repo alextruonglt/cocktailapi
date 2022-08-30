@@ -5,7 +5,9 @@ const About = () => {
     
       <section className="section about-section">
           <h1 className="section-title">About us</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo quia dicta esse eligendi inventore, illo harum ipsum aperiam veritatis laboriosam, excepturi officiis neque, voluptas eum provident praesentium adipisci dignissimos voluptatum?</p>
+          <p>
+            This was made from React and the cocktail api. This uses React Router 6.
+          </p>
       </section>
   
   )
